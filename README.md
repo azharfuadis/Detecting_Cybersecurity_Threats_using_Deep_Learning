@@ -4,7 +4,7 @@ Develop a system that can detect Cyber Threats in your company's network traffic
 
 **Project Description:**
 
-Develop a system that can detect Cyber Attacks in network traffic. Utilizing PyTorch, you will train a neural network model and implement real-time anomaly detection. The goal is to improve network security by identifying and mitigating sophisticated cyber-attacks. testing
+Develop a system that can detect Cyber Attacks in network traffic. Utilizing PyTorch, you will train a neural network model and implement real-time anomaly detection. The goal is to improve network security by identifying and mitigating sophisticated cyber-attacks. 
 
 **To Do:**
 Train a neural network model to detect cyber attacks using PyTorch.
